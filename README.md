@@ -10,17 +10,15 @@ O projeto representa meu primeiro contato prático com **HTML, CSS e JavaScript*
 O **Site Ada** é uma página web criada com foco em aprendizado, prática e evolução.  
 Aqui pude aplicar conceitos fundamentais do desenvolvimento Front-end, como estruturação de páginas, estilização e interatividade.
 
-Este projeto simboliza:
-- Minha **primeira página web**
-- Meu início no **Front-end**
-- Meu compromisso com aprendizado contínuo 🚀
+🔗 **Acesse aqui:**  
+👉 https://jessica-sfernandes.github.io/site-ada-projetoprogramaria/
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5** — estrutura da página  
-- **CSS3** — estilização e layout  
+- **HTML** — estrutura da página  
+- **CSS** — estilização e layout  
 - **JavaScript** — interatividade e comportamento  
 
 ---
